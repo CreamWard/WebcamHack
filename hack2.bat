@@ -3,5 +3,5 @@
 echo Double press any key...
 pause >nul
 pause >nul
-start hack_.exe
+start wbcam.bat
 exit
